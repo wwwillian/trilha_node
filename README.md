@@ -6,9 +6,19 @@
 
 ### Exercícios do novo curso da rocketseat 🚀  Ignite
 - ### 💻 [Node.js](https://nodejs.org)
-  - 01-concepts
-  - 02-middlewares
-  - 03-validations
+  Chapter I
+    - 01-concepts
+    - 02-middlewares
+    - 03-validations
+
+  Chapter II
+    - 01-typscript
+    - 02-API
+    - 03-S.O.L.I.D
+    - 04-refactoring
+    - 05-upload
+    - 06-documentation
+
 
 ## ✨ Passaporte
 
